@@ -1,0 +1,9 @@
+numpy 
+pandas 
+beautifulsoup4
+requests
+matplotlib
+seaborn
+IPython
+chromedriver-autoinstaller
+selenium
